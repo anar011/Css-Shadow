@@ -1,0 +1,139 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+
+.boxes{   
+    height: 70px;
+    background-color:white
+   
+}
+
+.boxes .box1{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(92, 233, 106);
+    margin-left: 140px;
+   
+    
+    
+
+}
+.box1 .derek{
+
+ color: white;
+ text-align: center;
+ padding-top: 10px;
+ 
+
+}
+
+.items{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 145px;
+   
+}
+
+.items .basic-center{
+ text-align: center;
+ 
+ 
+}
+
+
+.items .item1{
+    width: 800px;
+    height: 530px;
+    background-color: white;
+    
+
+}
+.item1 .img {
+    float: left;
+}
+ .item1 .about .about-me{
+    padding-top: 30px;
+    color: rgb(12, 151, 105)
+ }
+
+
+
+.items .connect{
+    width: 270px;
+    height: 180px;
+    background-color: rgb(242, 252, 252);
+    padding-right: 10px;
+    margin-left: 60px;
+}
+
+.connect .connect-with{
+    width: 270px;
+    height: 55px;
+    background-color: white
+}
+.connect-with .connect-with-me{
+    text-align: center;
+    color: rgb(13, 177, 114);
+    padding-top: 22px;
+
+}
+
+.connect .git-in{
+ display: flex;
+width: 270px;
+height: 143px;
+background-color: white;
+
+}
+
+.git-in .git{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.git-in .in{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.git-in .face{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+
+
+.items .item1 .about{
+    
+    height: 60px;
+    background-color: white;
+}
+
+
+.box2{
+    height: 9px;
+    background-color: rgb(15, 163, 139);
+}
+
+.under{
+    height: 94px;
+    background-color: rgb(61, 78, 78);
+}
+
